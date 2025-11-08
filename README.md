@@ -67,7 +67,8 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 
 <img width="1260" height="625" alt="image" src="https://github.com/user-attachments/assets/4267215d-3504-4c13-a88a-64c9b14b758f" />
 
-<img width="358" height="32766" alt="image" src="https://github.com/user-attachments/assets/7cefbc77-2b6f-4dc0-9966-d7516a2a10c1" />
+<img width="363" height="766" alt="image" src="https://github.com/user-attachments/assets/1a3dc4a2-b679-4f7e-94f1-631f5e5750e3" />
+
 
 
 
