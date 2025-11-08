@@ -40,3 +40,48 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 [Atividade (VTI).xlsx](https://github.com/user-attachments/files/23427400/Atividade.VTI.xlsx) 
 
 
+3 - Introdução ao BI
+
+<img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
+
+
+<img width="1289" height="805" alt="image" src="https://github.com/user-attachments/assets/d9078aba-d3aa-44b3-b4ec-43488f7dac34" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##ICE TABELA##
+
+
+
