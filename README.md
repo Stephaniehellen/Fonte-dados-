@@ -57,6 +57,9 @@ Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];
 <img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
 
 
+
+
+
 **4- DashBoard FOB X UF**
 
 
