@@ -43,9 +43,12 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 **3 - Introdução ao BI**
 
 <img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
+<img width="357" height="759" alt="image" src="https://github.com/user-attachments/assets/214c84fa-625a-476d-96eb-b8c8e8ae96b0" />
+
+Tabela com dados. [Ice Cream 1.xlsx](https://github.com/user-attachments/files/23427970/Ice.Cream.1.xlsx)
 
 
-<img width="1289" height="805" alt="image" src="https://github.com/user-attachments/assets/d9078aba-d3aa-44b3-b4ec-43488f7dac34" />
+
 
 
 **4- DashBoard FOB X UF**
