@@ -12,7 +12,9 @@ Fontes de informação e bancos de dados.
 
 
 **2-DADOS DE MUNICIPIOS** 
+
 [Atividade (VTI).xlsx](https://github.com/user-attachments/files/23427284/Atividade.VTI.xlsx)
+
 Foi usado a seguintes formulas para a 5 perguntas: 
 Qual foi o Valor Total da Transformação Industrial (VTI), em mil reais corrigidos para 2022, do município de São Paulo no ano de 2022? 
 Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];"São Paulo";Tabela1[[#Tudo];[Ano]];2022)
@@ -30,7 +32,9 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 =MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2004)
 
 <img width="1826" height="539" alt="Captura de tela 2025-11-07 210742" src="https://github.com/user-attachments/assets/90bf3c54-d6c9-4237-a487-c274226fb32c" />
+
 <img width="1850" height="570" alt="Captura de tela 2025-11-07 211002" src="https://github.com/user-attachments/assets/60fa408f-fa3f-4e5e-9e45-06cf3935786b" />
+
 
 [Atividade (VTI).xlsx](https://github.com/user-attachments/files/23427400/Atividade.VTI.xlsx) 
 
