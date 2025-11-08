@@ -48,6 +48,37 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 <img width="1289" height="805" alt="image" src="https://github.com/user-attachments/assets/d9078aba-d3aa-44b3-b4ec-43488f7dac34" />
 
 
+**4- DashBoard FOB X UF**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**5 - Progressão linear ice cream**
+
+<img width="1260" height="625" alt="image" src="https://github.com/user-attachments/assets/4267215d-3504-4c13-a88a-64c9b14b758f" />
+
+<img width="358" height="32766" alt="image" src="https://github.com/user-attachments/assets/7cefbc77-2b6f-4dc0-9966-d7516a2a10c1" />
+
+
+
+
+
+
+
+
+
+
+**6 - Progressão linear experiencia x salario**
 
 
 
