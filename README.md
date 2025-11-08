@@ -19,23 +19,23 @@ Fontes de informação e bancos de dados.
 Foi usado a seguintes formulas para a 5 perguntas: 
 
 
-Qual foi o Valor Total da Transformação Industrial (VTI), em mil reais corrigidos para 2022, do município de São Paulo no ano de 2022? 
+**Qual foi o Valor Total da Transformação Industrial (VTI), em mil reais corrigidos para 2022, do município de São Paulo no ano de 2022?**
 
 Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];"São Paulo";Tabela1[[#Tudo];[Ano]];2022)
 
-Qual foi a remuneração média dos trabalhadores da produção em Campinas, ajustada para valores de 2022?
+**Qual foi a remuneração média dos trabalhadores da produção em Campinas, ajustada para valores de 2022?**
 
 =MÉDIASES(Tabela1[[#Tudo];[Remuneracao_trabalhadores_da_producao_(MilReais)]];Tabela1[[#Tudo];[municipio]];"Campinas";Tabela1[[#Tudo];[Ano]];2022)
 
-Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2022?
+**Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2022?**
 
 =MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2022)
 
-Qual é o VTI acumulado (em mil R$ de 2022) de São José dos Campos, somando em 2005?
+**Qual é o VTI acumulado (em mil R$ de 2022) de São José dos Campos, somando em 2005?**
 
 =SOMASES(Tabela1[VTI(MilR$2022)];Tabela1[municipio];"São José dos Campos";Tabela1[Ano];2005)
 
-Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2004?
+**Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2004?**
 
 =MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2004)
 
@@ -78,7 +78,8 @@ Qual é a produtividade média dos trabalhadores da produção em São José dos
 
 <img width="363" height="766" alt="image" src="https://github.com/user-attachments/assets/1a3dc4a2-b679-4f7e-94f1-631f5e5750e3" />
 
-Tabela com dados. [Ice Cream 1.xlsx](https://github.com/user-attachments/files/23427970/Ice.Cream.1.xlsx)
+Tabela com dados.
+[Ice Cream 1.xlsx](https://github.com/user-attachments/files/23427970/Ice.Cream.1.xlsx)
 
 
 
