@@ -1,136 +1,74 @@
-# Fonte-dados
-Fontes de informação e bancos de dados. 
-
-**1-ATIVIDADE MAPA MENTAL**
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/3edb1c0c-be66-43a6-8cbc-e46bba8a5162" />
-
-
-
-**APRESENTAÇÃO DADOS-EM GRUPO**
-
-[Trabalho-de-Fontes-e-Dados (2) (1).pdf](https://github.com/user-attachments/files/23427224/Trabalho-de-Fontes-e-Dados.2.1.pdf)
-
-
-
-
-
-**2-DADOS DE MUNICIPIOS** 
-
-[Atividade (VTI).xlsx](https://github.com/user-attachments/files/23427284/Atividade.VTI.xlsx)
-
-Foi usado a seguintes formulas para a 5 perguntas: 
-
-
-**Qual foi o Valor Total da Transformação Industrial (VTI), em mil reais corrigidos para 2022, do município de São Paulo no ano de 2022?**
-
-Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];"São Paulo";Tabela1[[#Tudo];[Ano]];2022)
-
-**Qual foi a remuneração média dos trabalhadores da produção em Campinas, ajustada para valores de 2022?**
-
-=MÉDIASES(Tabela1[[#Tudo];[Remuneracao_trabalhadores_da_producao_(MilReais)]];Tabela1[[#Tudo];[municipio]];"Campinas";Tabela1[[#Tudo];[Ano]];2022)
-
-**Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2022?**
-
-=MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2022)
-
-**Qual é o VTI acumulado (em mil R$ de 2022) de São José dos Campos, somando em 2005?**
-
-=SOMASES(Tabela1[VTI(MilR$2022)];Tabela1[municipio];"São José dos Campos";Tabela1[Ano];2005)
-
-**Qual é a produtividade média dos trabalhadores da produção em São José dos Campos, considerando o VTI por trabalhador em mil R$ de 2004?**
-
-=MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2004)
-
-
-<img width="1826" height="539" alt="Captura de tela 2025-11-07 210742" src="https://github.com/user-attachments/assets/90bf3c54-d6c9-4237-a487-c274226fb32c" />
-
-
-<img width="1850" height="570" alt="Captura de tela 2025-11-07 211002" src="https://github.com/user-attachments/assets/60fa408f-fa3f-4e5e-9e45-06cf3935786b" />
-
-
-[Atividade (VTI).xlsx](https://github.com/user-attachments/files/23427400/Atividade.VTI.xlsx) 
-
-
-**3 - Introdução ao BI**
-
-<img width="357" height="759" alt="image" src="https://github.com/user-attachments/assets/214c84fa-625a-476d-96eb-b8c8e8ae96b0" />
-
-
-<img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
-
-
-
-
-
-**4- DashBoard FOB X UF**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**5 - Progressão linear ice cream**
-
-<img width="1260" height="625" alt="image" src="https://github.com/user-attachments/assets/4267215d-3504-4c13-a88a-64c9b14b758f" />
-
-<img width="363" height="766" alt="image" src="https://github.com/user-attachments/assets/1a3dc4a2-b679-4f7e-94f1-631f5e5750e3" />
-
-Tabela com dados.
-[Ice Cream 1.xlsx](https://github.com/user-attachments/files/23427970/Ice.Cream.1.xlsx)
-
-
-
-
-
-
-
-
-
-
-
-**6 - Progressão linear experiencia x salario**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##ICE TABELA##
-
-
+# fonte-de-dados
+Materia Fatec 2025-2
+</br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/89becc40-13f0-4c64-97a2-a3d07c1b005a" />
+</br>
+</br>
+
+## Atividade 1: Apresentação em equipe, ultilizamos o software Gamma.app
+<img width="1197" height="623" alt="image" src="https://github.com/user-attachments/assets/171b8d59-7f20-436a-852e-dc20e0769a24" />
+</br>
+</br>
+## Atividade 2: Tabela de Dados Teams dia 12/09/25:
+Ultilizamos o Excel e as seguintes fórmulas:</br>
+=CONT.VALORES(): Conta a quantidade de células não vazias em um detemindado intervalo.
+</br>
+"CONT.VALORES(sp_municipal!A:J)-1".
+</br>
+</br>
+=MÁXIMOSES(): Retorna o maior valor de uma célula de um determinado intervalo que atende uma ou mais condições.
+</br>
+"MÁXIMOSES (sp_municipal!G:G;sp_municipal!D:D;2022;sp_municipal!B:B;"São Paulo")".
+</br>
+</br>
+=MINIMOSES(): Retorna o menor valor de uma célula de um determinado intervalo que atende uma ou mais condições.
+</br>
+"MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;sp_municipal!B:B;"São Paulo")".
+</br>
+</br>
+=CORRESP(): Retorna a posição da célula escolhida por seu valor dentro de um intervalo.
+</br>
+"CORRESP(B12;sp_municipal!G:G;0)".
+</br>
+</br>
+=ÍNDICE(): Retorna o valor da célula escolhida por sua posição na tabela.
+</br>
+"ÍNDICE(sp_municipal!F:F;B18;1)".
+</br>
+</br>
+<img width="1136" height="706" alt="508485904-c5e558b3-9c3d-4104-a7a1-c4d9661c537a" src="https://github.com/user-attachments/assets/9ed6dcc9-9759-4eff-877a-0b8cd1d43d69" /></br>
+
+## Atividade 3: Introdução ao Power BI - Utilização de funções do Software.
+Nr° 1: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.</br>
+<img width="1026" height="579" alt="image" src="https://github.com/user-attachments/assets/c445cf1f-1c9d-41ac-ad53-08bef7313c34" />
+</br>
+</br>
+
+Nr° 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.</br>
+<img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/c6a7c180-235d-4ba6-a681-2cd05da13dbe" />
+</br>
+</br>
+
+## Atividade 4: Atividade Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream.
+Dados no Excel:
+</br>
+</br>
+<img width="1895" height="760" alt="508499410-0d0eb6f4-81c2-46fb-b674-fd9645f697b5" src="https://github.com/user-attachments/assets/4f7d596c-fa80-44b3-8111-41193e9d81c9" />
+</br>
+</br>
+Dados no Colab do Google:
+</br>
+</br>
+<img width="1009" height="685" alt="508499445-d0e06350-42a1-4079-a8f2-7f86855aee51" src="https://github.com/user-attachments/assets/d8934330-fe86-49df-bc20-82eed34bfaac" />
+</br>
+<img width="762" height="771" alt="508499491-e238490b-dc75-439e-a2e8-d96f75a70006" src="https://github.com/user-attachments/assets/77478b87-c414-44a1-bb87-961c6922bb15" />
+</br>
+<img width="774" height="432" alt="508499526-c577c132-317e-439a-87dd-a19bb431e853" src="https://github.com/user-attachments/assets/26fc51d2-a8db-4d4b-8e4b-1f1e102aa8b0" />
+</br>
+</br>
+## Atividade 5: Regressão linear
+Dados no Excel:
+</br>
+</br>
+<img width="1214" height="725" alt="image" src="https://github.com/user-attachments/assets/40e2a7e0-97a0-468d-9de5-799059d49187" />
 
