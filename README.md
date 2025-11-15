@@ -53,7 +53,7 @@ Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];
 
 **3 - Introdução ao BI**
 
-
+PLANILHA EXCEL;LINK BANDEIRAS;POWERBI
 <img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
 
 
@@ -95,6 +95,8 @@ Tabela com dados.
 
 
 **6 - Progressão linear experiencia x salario**
+ por meio do Excel e de Machine Learning (Python e Colab)
+
 
 
 <img width="1267" height="818" alt="image" src="https://github.com/user-attachments/assets/55234e98-bb0f-4d3b-becf-d7885c2a06c2" />
