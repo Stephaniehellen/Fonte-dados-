@@ -99,6 +99,7 @@ Tabela com dados.
 **6 - Progressão linear experiencia x salario**
 
 
+<img width="1267" height="818" alt="image" src="https://github.com/user-attachments/assets/55234e98-bb0f-4d3b-becf-d7885c2a06c2" />
 
 
 
