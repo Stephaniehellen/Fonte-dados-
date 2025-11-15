@@ -102,8 +102,10 @@ Tabela com dados.
 <img width="1267" height="818" alt="image" src="https://github.com/user-attachments/assets/55234e98-bb0f-4d3b-becf-d7885c2a06c2" />
 
 
+<img width="1212" height="927" alt="image" src="https://github.com/user-attachments/assets/d8317438-f997-4f58-9164-8046167e955f" />
 
 
+<img width="1170" height="924" alt="image" src="https://github.com/user-attachments/assets/83da3446-09b5-4410-a388-8aec90020435" />
 
 
 
