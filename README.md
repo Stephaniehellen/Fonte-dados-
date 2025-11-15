@@ -53,8 +53,6 @@ Formula:=SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];
 
 **3 - Introdução ao BI**
 
-<img width="357" height="759" alt="image" src="https://github.com/user-attachments/assets/214c84fa-625a-476d-96eb-b8c8e8ae96b0" />
-
 
 <img width="1318" height="811" alt="image" src="https://github.com/user-attachments/assets/51fdeadc-d500-47ad-8c62-93199f185f09" />
 
